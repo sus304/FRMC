@@ -1,0 +1,21 @@
+{
+	"Engine": {
+		"Thrust File": "Thrust.csv",
+		"File Exist": false,
+		"Constant Thrust [N]": 5011.829,
+		"Burn Time [sec]": 13.767,
+		"Isp [sec]": 168.09,
+		"Nozzle Throat Diameter [m]": 0.049,
+		"Nozzle Expansion Ratio": 4.16
+	},
+	"Propellant": {
+		"Oxidizer Mass [kg]": 35.7,
+		"Oxidizer Mass Flow Rate [kg/s]": 2.593,
+		"Fuel Mass Before Burn [kg]": 7.2397,
+		"Delta Fuel Mass [kg]": 5.41,
+		"Fuel Mass Flow Rate [kg/s]": 0.39337,
+		"Fuel Outside Diameter [m]": 0.132,
+		"Fuel Inside Diameter [m]": 0.02,
+		"Fuel Length [m]": 0.48
+	}
+}
